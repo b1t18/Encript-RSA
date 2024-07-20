@@ -1,2 +1,2 @@
-# Encript-RSA
-Encriptar con algoritmo RSA
+# Encript-rsa.RSA
+Encriptar con algoritmo rsa.RSA
